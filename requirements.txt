@@ -4,3 +4,9 @@ tensorflow
 wandb
 keras_core
 keras_cv
+
+Flask
+colorama
+requests
+
+label-studio-tools
