@@ -1,0 +1,6 @@
+numpy
+keras
+tensorflow
+wandb
+keras_core
+keras_cv
