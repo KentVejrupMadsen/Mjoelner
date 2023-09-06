@@ -1,12 +1,14 @@
 numpy
+
+opencv-python
+
 keras
-tensorflow
-wandb
 keras_core
 keras_cv
 
-Flask
-colorama
-requests
+tensorflow
 
-label-studio-tools
+wandb
+
+requests
+pytest
