@@ -1,14 +1,1 @@
-requests
 pytest
-
-numpy
-
-opencv-python
-
-keras
-keras_core
-keras_cv
-
-tensorflow
-
-wandb
