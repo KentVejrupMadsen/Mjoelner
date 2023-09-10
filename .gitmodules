@@ -1,3 +1,6 @@
 [submodule "submodules/vision"]
 	path = submodules/vision
 	url = https://github.com/KentVejrupMadsen/Mjoelner.vision.git
+[submodule "submodules/tools"]
+	path = submodules/tools
+	url = https://github.com/KentVejrupMadsen/Mjoelner.tools
